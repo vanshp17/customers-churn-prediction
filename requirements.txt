@@ -1,0 +1,10 @@
+plotly
+seaborn
+matplotlib
+missingno
+pandas
+numpy
+scikit-learn
+mlxtend
+xgboost
+imbalanced-learn
